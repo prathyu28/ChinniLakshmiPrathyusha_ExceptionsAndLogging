@@ -1,5 +1,5 @@
 package Interest;
-import java.util.logger.Logger;
+import java.util.logging.Logger;
 import java.util.Scanner;
 class Interest extends Calculate_Interest
 {
